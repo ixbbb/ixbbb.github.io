@@ -1,1 +1,1 @@
-# ixbbb.githujb.io
+# ixbbb.github.io
